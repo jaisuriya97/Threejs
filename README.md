@@ -8,7 +8,8 @@ Three.js is a JavaScript library that uses WebGL in an HTML5 canvas to render an
 
 ## Screen Shot
    ### Main Page
-   ![Alt text](image.png)
+   ![image](https://github.com/jaisuriya97/Threejs/assets/80122325/d111136a-2358-4e09-8910-357a9e703d33)
+
 
 ## Modificarion
 - In youtube video , we need to modify some changes like Light intensity ,  do Your self and Enjoy😊 
