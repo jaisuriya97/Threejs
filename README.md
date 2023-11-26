@@ -14,7 +14,7 @@ Three.js is a JavaScript library that uses WebGL in an HTML5 canvas to render an
      ``` npm install ```
 - step 3:
      ``` npm run dev ```
-## 👀Preview ![Click 👆](threejs-mocha.vercel.app) 
+## 👀Preview ![Click 👆](https://threejs-mocha.vercel.app/) 
    
 ## 📸Screen Shot
    ### Main Page
